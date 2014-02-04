@@ -1,0 +1,13 @@
+﻿body{ background-color:white; margin:3em; overflow:hidden; text-align: center;}
+q{ color:gray; font-style:italic }
+em{ font-style:normal; font-weight:bold }
+strong{ font-weight:bold; color:red }
+#frame{ text-align: left; border:1px gray dashed; padding:1em 1em 1em 1em; position: relative; }
+#frame div{ border:none; padding:0; text-align:right; margin-top:2em; }
+h1,h3{ margin-top:0px }
+#e{ text-align:center }
+#e #frame{ width:600px; height:450px; padding:4px; _padding-bottom:0px; margin:auto }
+#t{ position: absolute; right: 10px; bottom: 10px; font-size: 0.8em; color: gray; }
+embed{ width:100%; height:100% }
+#buttons { position: absolute; bottom: 3em; right: 3em; }
+#partner{ display: block; position: absolute; bottom: 3em; left: 3em; }
