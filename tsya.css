@@ -1,7 +1,8 @@
 ﻿body{ background-color:white; margin:3em; overflow:hidden; text-align: center;}
 q{ color:gray; font-style:italic }
 em{ font-style:normal; font-weight:bold }
-strong{ font-weight:bold; color:red }
+strong,.soft{ font-weight:bold; color:red }
+.hard{ font-weight:bold; color:darkorange; }
 #frame{ text-align: left; border:1px gray dashed; padding:1em 1em 1em 1em; position: relative; }
 #frame div{ border:none; padding:0; text-align:right; margin-top:2em; }
 h1,h3{ margin-top:0px }
